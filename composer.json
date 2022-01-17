@@ -1,0 +1,6 @@
+{
+    "name": "wom/merge",
+    "require": {
+        "monolog/monolog": "^1.23"
+    }
+}
